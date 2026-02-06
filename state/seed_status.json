@@ -490,6 +490,13 @@
       "total_commits_indexed": 94518,
       "upstream": "python/cpython"
     },
+    "logic-star-ai-tests/pytorch__pytorch": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T16:32:10Z",
+      "status": "seeded",
+      "total_commits_indexed": 93291,
+      "upstream": "pytorch/pytorch"
+    },
     "logic-star-ai-tests/qutebrowser__qutebrowser": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:16:23Z",
@@ -588,6 +595,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:30:38Z",
+  "updated_at_utc": "2026-02-06T16:32:10Z",
   "version": 1
 }

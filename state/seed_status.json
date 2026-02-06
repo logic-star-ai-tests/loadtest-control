@@ -399,6 +399,13 @@
       "total_commits_indexed": 16154,
       "upstream": "mattermost/mattermost"
     },
+    "logic-star-ai-tests/microsoft__fluentui": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:20:03Z",
+      "status": "seeded",
+      "total_commits_indexed": 18591,
+      "upstream": "microsoft/fluentui"
+    },
     "logic-star-ai-tests/microsoft__rushstack": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:12:30Z",
@@ -483,6 +490,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:19:05Z",
+  "updated_at_utc": "2026-02-06T16:20:03Z",
   "version": 1
 }

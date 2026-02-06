@@ -102,6 +102,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/cypress-io__cypress": {
+      "chunk_id": 0,
+      "current_main_sha": "c4ba9a2b5b9987332babced52b6fc164815e0fd5",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/desktop__desktop": {
       "chunk_id": 0,
       "current_main_sha": "7012c51cc29a4ddc5d0f00d3b9763cebab509e4a",
@@ -139,6 +145,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:52:26Z",
+  "updated_at_utc": "2026-02-06T15:53:17Z",
   "version": 1
 }

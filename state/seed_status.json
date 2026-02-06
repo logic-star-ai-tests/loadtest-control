@@ -182,6 +182,13 @@
       "total_commits_indexed": 5651,
       "upstream": "cupy/cupy"
     },
+    "logic-star-ai-tests/cypress-io__cypress": {
+      "default_branch": "develop",
+      "finished_at_utc": "2026-02-06T15:53:17Z",
+      "status": "seeded",
+      "total_commits_indexed": 6837,
+      "upstream": "cypress-io/cypress"
+    },
     "logic-star-ai-tests/desktop__desktop": {
       "default_branch": "development",
       "finished_at_utc": "2026-02-06T15:49:17Z",
@@ -224,6 +231,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:52:26Z",
+  "updated_at_utc": "2026-02-06T15:53:17Z",
   "version": 1
 }

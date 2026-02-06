@@ -180,6 +180,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/getsentry__sentry": {
+      "chunk_id": 0,
+      "current_main_sha": "3c2e87573d3bd16f61cf08fece0638cc47a4fc22",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/goauthentik__authentik": {
       "chunk_id": 0,
       "current_main_sha": "935155ce94d1b896eae390a762e63ba4d7310c59",
@@ -217,6 +223,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:03:47Z",
+  "updated_at_utc": "2026-02-06T16:04:15Z",
   "version": 1
 }

@@ -324,6 +324,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/primefaces__primeng": {
+      "chunk_id": 0,
+      "current_main_sha": "14cfdd41a1904baf648ecab24b2cf027cb00d05e",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/python-pillow__Pillow": {
       "chunk_id": 0,
       "current_main_sha": "b47a462e47a49b9720652c90bea380c49a211c90",
@@ -343,6 +349,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:17:57Z",
+  "updated_at_utc": "2026-02-06T16:18:28Z",
   "version": 1
 }

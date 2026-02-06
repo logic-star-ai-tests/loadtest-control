@@ -198,6 +198,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/grafana__grafana": {
+      "chunk_id": 0,
+      "current_main_sha": "75d03fc49ab4f95ee414f730563f14cbdad9ee64",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/highcharts__highcharts": {
       "chunk_id": 0,
       "current_main_sha": "5912c0019b24b5af446ecdce1ff3ff7e7b5f78a8",
@@ -301,6 +307,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:13:46Z",
+  "updated_at_utc": "2026-02-06T16:13:56Z",
   "version": 1
 }

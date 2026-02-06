@@ -30,6 +30,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/airbytehq__airbyte": {
+      "chunk_id": 0,
+      "current_main_sha": "f9d60195796f4345d838c61f0070f2e594b0e3f6",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/amplication__amplication": {
       "chunk_id": 0,
       "current_main_sha": "441c53bae906824c5988f26e44690ca0ffb5e685",
@@ -79,6 +85,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:46:29Z",
+  "updated_at_utc": "2026-02-06T15:47:31Z",
   "version": 1
 }

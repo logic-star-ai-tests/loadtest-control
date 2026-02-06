@@ -273,6 +273,13 @@
       "total_commits_indexed": 18643,
       "upstream": "goauthentik/authentik"
     },
+    "logic-star-ai-tests/highcharts__highcharts": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:02:57Z",
+      "status": "seeded",
+      "total_commits_indexed": 16065,
+      "upstream": "highcharts/highcharts"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -287,6 +294,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:02:06Z",
+  "updated_at_utc": "2026-02-06T16:02:57Z",
   "version": 1
 }

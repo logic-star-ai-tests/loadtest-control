@@ -7,6 +7,13 @@
       "total_commits_indexed": 18884,
       "upstream": "521xueweihan/GitHub520"
     },
+    "logic-star-ai-tests/BabylonJS__Babylon.js": {
+      "default_branch": "master",
+      "error": "CalledProcessError: Command '['git', 'clone', '--bare', '--branch', 'master', '--single-branch', 'https://github.com/BabylonJS/Babylon.js.git', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-fzobzqi9/repo.git']' returned non-zero exit status 128.",
+      "finished_at_utc": "2026-02-06T15:39:31Z",
+      "status": "error",
+      "upstream": "BabylonJS/Babylon.js"
+    },
     "logic-star-ai-tests/BerriAI__litellm": {
       "default_branch": "main",
       "error": "CalledProcessError: Command '['git', 'clone', '--bare', '--branch', 'main', '--single-branch', 'https://github.com/BerriAI/litellm.git', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-vm4dre9x/repo.git']' returned non-zero exit status 128.",
@@ -63,6 +70,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:39:29Z",
+  "updated_at_utc": "2026-02-06T15:39:31Z",
   "version": 1
 }

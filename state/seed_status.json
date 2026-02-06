@@ -497,6 +497,13 @@
       "total_commits_indexed": 24098,
       "upstream": "renovatebot/renovate"
     },
+    "logic-star-ai-tests/saleor__saleor": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T16:21:57Z",
+      "status": "seeded",
+      "total_commits_indexed": 6651,
+      "upstream": "saleor/saleor"
+    },
     "logic-star-ai-tests/yt-dlp__yt-dlp": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T15:10:37Z",
@@ -504,6 +511,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:21:08Z",
+  "updated_at_utc": "2026-02-06T16:21:57Z",
   "version": 1
 }

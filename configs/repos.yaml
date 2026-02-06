@@ -1,0 +1,11 @@
+version: 1
+defaults:
+  commits_per_tick: 200
+  enabled: true
+
+repos:
+- upstream: yt-dlp/yt-dlp
+  loadtest_repo: logic-star-ai-tests/yt-dlp__yt-dlp
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0

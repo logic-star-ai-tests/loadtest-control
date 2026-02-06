@@ -30,6 +30,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/amplication__amplication": {
+      "chunk_id": 0,
+      "current_main_sha": "441c53bae906824c5988f26e44690ca0ffb5e685",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/ansible__ansible": {
       "chunk_id": 0,
       "current_main_sha": "f31421576b00f0b167cdbe61217c31c21a41ac02",
@@ -55,6 +61,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:43:24Z",
+  "updated_at_utc": "2026-02-06T15:44:06Z",
   "version": 1
 }

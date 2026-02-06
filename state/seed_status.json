@@ -189,6 +189,13 @@
       "total_commits_indexed": 5348,
       "upstream": "dubinc/dub"
     },
+    "logic-star-ai-tests/emberjs__ember.js": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T15:50:30Z",
+      "status": "seeded",
+      "total_commits_indexed": 10305,
+      "upstream": "emberjs/ember.js"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -203,6 +210,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:49:17Z",
+  "updated_at_utc": "2026-02-06T15:50:30Z",
   "version": 1
 }

@@ -518,6 +518,13 @@
       "total_commits_indexed": 17753,
       "upstream": "scipy/scipy"
     },
+    "logic-star-ai-tests/spyder-ide__spyder": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:23:49Z",
+      "status": "seeded",
+      "total_commits_indexed": 7375,
+      "upstream": "spyder-ide/spyder"
+    },
     "logic-star-ai-tests/yt-dlp__yt-dlp": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T15:10:37Z",
@@ -525,6 +532,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:23:45Z",
+  "updated_at_utc": "2026-02-06T16:23:49Z",
   "version": 1
 }

@@ -441,6 +441,13 @@
       "total_commits_indexed": 3629,
       "upstream": "optuna/optuna"
     },
+    "logic-star-ai-tests/pandas-dev__pandas": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T16:18:44Z",
+      "status": "seeded",
+      "total_commits_indexed": 32309,
+      "upstream": "pandas-dev/pandas"
+    },
     "logic-star-ai-tests/primefaces__primeng": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T16:18:28Z",
@@ -469,6 +476,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:18:28Z",
+  "updated_at_utc": "2026-02-06T16:18:44Z",
   "version": 1
 }

@@ -120,6 +120,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/dagster-io__dagster": {
+      "chunk_id": 0,
+      "current_main_sha": "7bd58d800766aad0c0501539b8f6ee3dbf74331c",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/desktop__desktop": {
       "chunk_id": 0,
       "current_main_sha": "7012c51cc29a4ddc5d0f00d3b9763cebab509e4a",
@@ -199,6 +205,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:02:57Z",
+  "updated_at_utc": "2026-02-06T16:03:19Z",
   "version": 1
 }

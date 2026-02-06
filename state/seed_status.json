@@ -203,6 +203,13 @@
       "total_commits_indexed": 6837,
       "upstream": "cypress-io/cypress"
     },
+    "logic-star-ai-tests/dagster-io__dagster": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:03:19Z",
+      "status": "seeded",
+      "total_commits_indexed": 25991,
+      "upstream": "dagster-io/dagster"
+    },
     "logic-star-ai-tests/desktop__desktop": {
       "default_branch": "development",
       "finished_at_utc": "2026-02-06T15:49:17Z",
@@ -294,6 +301,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:02:57Z",
+  "updated_at_utc": "2026-02-06T16:03:19Z",
   "version": 1
 }

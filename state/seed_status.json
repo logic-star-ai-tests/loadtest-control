@@ -63,6 +63,13 @@
       "total_commits_indexed": 9571,
       "upstream": "PrefectHQ/prefect"
     },
+    "logic-star-ai-tests/Theano__Theano": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T15:39:51Z",
+      "status": "seeded",
+      "total_commits_indexed": 7448,
+      "upstream": "Theano/Theano"
+    },
     "logic-star-ai-tests/TriliumNext__Trilium": {
       "default_branch": "main",
       "error": "CalledProcessError: Command '['git', 'clone', '--bare', '--branch', 'main', '--single-branch', 'https://github.com/TriliumNext/Trilium.git', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-a007kcx0/repo.git']' returned non-zero exit status 128.",
@@ -84,6 +91,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:39:35Z",
+  "updated_at_utc": "2026-02-06T15:39:51Z",
   "version": 1
 }

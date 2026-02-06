@@ -84,6 +84,13 @@
       "status": "error",
       "upstream": "activepieces/activepieces"
     },
+    "logic-star-ai-tests/ansible__ansible": {
+      "default_branch": "devel",
+      "finished_at_utc": "2026-02-06T15:42:30Z",
+      "status": "seeded",
+      "total_commits_indexed": 46940,
+      "upstream": "ansible/ansible"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -98,6 +105,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:41:39Z",
+  "updated_at_utc": "2026-02-06T15:42:30Z",
   "version": 1
 }

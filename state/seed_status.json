@@ -77,6 +77,13 @@
       "status": "error",
       "upstream": "TriliumNext/Trilium"
     },
+    "logic-star-ai-tests/activepieces__activepieces": {
+      "default_branch": "main",
+      "error": "CalledProcessError: Command '['git', '-C', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-lbd2wakx/repo.git', 'push', '--force', 'loadtest', '3d5af7da63cf542a891f10ae3832a8e011e493df:refs/heads/main']' returned non-zero exit status 1.",
+      "finished_at_utc": "2026-02-06T15:41:39Z",
+      "status": "error",
+      "upstream": "activepieces/activepieces"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -91,6 +98,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:39:51Z",
+  "updated_at_utc": "2026-02-06T15:41:39Z",
   "version": 1
 }

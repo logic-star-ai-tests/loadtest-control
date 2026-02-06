@@ -593,8 +593,15 @@
       "finished_at_utc": "2026-02-06T15:10:37Z",
       "status": "seeded",
       "upstream": "yt-dlp/yt-dlp"
+    },
+    "logic-star-ai-tests/zulip__zulip": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T16:32:41Z",
+      "status": "seeded",
+      "total_commits_indexed": 68828,
+      "upstream": "zulip/zulip"
     }
   },
-  "updated_at_utc": "2026-02-06T16:32:10Z",
+  "updated_at_utc": "2026-02-06T16:32:41Z",
   "version": 1
 }

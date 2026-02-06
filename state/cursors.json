@@ -66,6 +66,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/anyproto__anytype-ts": {
+      "chunk_id": 0,
+      "current_main_sha": "068a78d01bde3755a3438f4de5537e7300d2ca78",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/apache__airflow": {
       "chunk_id": 0,
       "current_main_sha": "1047940ca4363b04044c4963b9c88f7632746407",
@@ -133,6 +139,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:50:53Z",
+  "updated_at_utc": "2026-02-06T15:52:26Z",
   "version": 1
 }

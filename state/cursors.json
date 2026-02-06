@@ -222,6 +222,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/jhipster__generator-jhipster": {
+      "chunk_id": 0,
+      "current_main_sha": "c8630ab7af7b6a99db880b3b0e2403806b7d2436",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/juice-shop__juice-shop": {
       "chunk_id": 0,
       "current_main_sha": "dfea0095943ba6c3ef308065794d70abcdd525d1",
@@ -241,6 +247,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:05:55Z",
+  "updated_at_utc": "2026-02-06T16:06:14Z",
   "version": 1
 }

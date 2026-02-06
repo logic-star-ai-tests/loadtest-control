@@ -348,6 +348,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/readthedocs__readthedocs.org": {
+      "chunk_id": 0,
+      "current_main_sha": "6c38e6c065e8a26add3126861e996fbcb03fb60d",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/yt-dlp__yt-dlp": {
       "chunk_id": 0,
       "current_main_sha": "4fa74b5252a23c2890ddee52b8ee5811b5bb2987",
@@ -355,6 +361,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:18:44Z",
+  "updated_at_utc": "2026-02-06T16:19:05Z",
   "version": 1
 }

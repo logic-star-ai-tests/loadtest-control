@@ -6,6 +6,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/Budibase__budibase": {
+      "chunk_id": 0,
+      "current_main_sha": "a8aa18d01d0640db6fb0f7bcb20e713b38b5610b",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/Kilo-Org__kilocode": {
       "chunk_id": 0,
       "current_main_sha": "9f169b7e4bd32dbd59626e031fcfb663558c9cbd",
@@ -43,6 +49,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:42:51Z",
+  "updated_at_utc": "2026-02-06T15:42:54Z",
   "version": 1
 }

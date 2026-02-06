@@ -102,6 +102,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/django__django": {
+      "chunk_id": 0,
+      "current_main_sha": "d6ded0e91bcdd2a8f7a221f6a5552a33fe545359",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/dubinc__dub": {
       "chunk_id": 0,
       "current_main_sha": "b02b81df27e1c6e4712f3f67e08c11921a0bab4a",
@@ -127,6 +133,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:50:30Z",
+  "updated_at_utc": "2026-02-06T15:50:53Z",
   "version": 1
 }

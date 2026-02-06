@@ -6,6 +6,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/PrefectHQ__prefect": {
+      "chunk_id": 0,
+      "current_main_sha": "5d64e2da1bd11f31d16993ae1730599e13de4016",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "chunk_id": 0,
       "current_main_sha": "69c0fa25d2d21c1ba6189456e3d3a0521c41132d",
@@ -19,6 +25,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:36:50Z",
+  "updated_at_utc": "2026-02-06T15:38:48Z",
   "version": 1
 }

@@ -14,6 +14,13 @@
       "status": "error",
       "upstream": "OneUptime/oneuptime"
     },
+    "logic-star-ai-tests/PrefectHQ__prefect": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T15:38:48Z",
+      "status": "seeded",
+      "total_commits_indexed": 9571,
+      "upstream": "PrefectHQ/prefect"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -28,6 +35,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:38:29Z",
+  "updated_at_utc": "2026-02-06T15:38:48Z",
   "version": 1
 }

@@ -162,6 +162,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/frappe__erpnext": {
+      "chunk_id": 0,
+      "current_main_sha": "c1e6e4c7526e32364c6650ad4be936b6b6af6767",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/frappe__frappe": {
       "chunk_id": 0,
       "current_main_sha": "d9404210e4b835ded65db509126f306e8e6c3c84",
@@ -277,6 +283,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:11:28Z",
+  "updated_at_utc": "2026-02-06T16:11:58Z",
   "version": 1
 }

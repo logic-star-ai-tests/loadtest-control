@@ -252,6 +252,13 @@
       "total_commits_indexed": 2647,
       "upstream": "espnet/espnet"
     },
+    "logic-star-ai-tests/frappe__erpnext": {
+      "default_branch": "develop",
+      "finished_at_utc": "2026-02-06T16:11:58Z",
+      "status": "seeded",
+      "total_commits_indexed": 14870,
+      "upstream": "frappe/erpnext"
+    },
     "logic-star-ai-tests/frappe__frappe": {
       "default_branch": "develop",
       "finished_at_utc": "2026-02-06T15:59:38Z",
@@ -385,6 +392,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:11:28Z",
+  "updated_at_utc": "2026-02-06T16:11:58Z",
   "version": 1
 }

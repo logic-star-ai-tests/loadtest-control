@@ -140,6 +140,13 @@
       "total_commits_indexed": 16818,
       "upstream": "ant-design/ant-design"
     },
+    "logic-star-ai-tests/apache__airflow": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T15:48:02Z",
+      "status": "seeded",
+      "total_commits_indexed": 33635,
+      "upstream": "apache/airflow"
+    },
     "logic-star-ai-tests/appwrite__appwrite": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T15:47:39Z",
@@ -175,6 +182,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:47:58Z",
+  "updated_at_utc": "2026-02-06T15:48:02Z",
   "version": 1
 }

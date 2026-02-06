@@ -546,6 +546,13 @@
       "total_commits_indexed": 17753,
       "upstream": "scipy/scipy"
     },
+    "logic-star-ai-tests/siyuan-note__siyuan": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:27:58Z",
+      "status": "seeded",
+      "total_commits_indexed": 14199,
+      "upstream": "siyuan-note/siyuan"
+    },
     "logic-star-ai-tests/spyder-ide__spyder": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T16:23:49Z",
@@ -574,6 +581,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:27:35Z",
+  "updated_at_utc": "2026-02-06T16:27:58Z",
   "version": 1
 }

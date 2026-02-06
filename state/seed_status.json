@@ -147,6 +147,13 @@
       "total_commits_indexed": 2493,
       "upstream": "appwrite/appwrite"
     },
+    "logic-star-ai-tests/bokeh__bokeh": {
+      "default_branch": "branch-3.9",
+      "finished_at_utc": "2026-02-06T15:47:58Z",
+      "status": "seeded",
+      "total_commits_indexed": 7375,
+      "upstream": "bokeh/bokeh"
+    },
     "logic-star-ai-tests/cupy__cupy": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T15:45:20Z",
@@ -168,6 +175,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:47:39Z",
+  "updated_at_utc": "2026-02-06T15:47:58Z",
   "version": 1
 }

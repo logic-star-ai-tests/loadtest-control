@@ -72,6 +72,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/bokeh__bokeh": {
+      "chunk_id": 0,
+      "current_main_sha": "3fde8e31c7bfd34f8250439891f991f7208e5b7f",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/cupy__cupy": {
       "chunk_id": 0,
       "current_main_sha": "833e5b1f54e6679ddce0a2b7e25dd8848b363e2f",
@@ -91,6 +97,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:47:39Z",
+  "updated_at_utc": "2026-02-06T15:47:58Z",
   "version": 1
 }

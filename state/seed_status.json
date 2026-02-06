@@ -147,6 +147,13 @@
       "total_commits_indexed": 33635,
       "upstream": "apache/airflow"
     },
+    "logic-star-ai-tests/appsmithorg__appsmith": {
+      "default_branch": "release",
+      "finished_at_utc": "2026-02-06T15:49:15Z",
+      "status": "seeded",
+      "total_commits_indexed": 14386,
+      "upstream": "appsmithorg/appsmith"
+    },
     "logic-star-ai-tests/appwrite__appwrite": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T15:47:39Z",
@@ -189,6 +196,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:49:08Z",
+  "updated_at_utc": "2026-02-06T15:49:15Z",
   "version": 1
 }

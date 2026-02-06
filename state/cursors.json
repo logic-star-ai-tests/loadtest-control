@@ -72,6 +72,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/appsmithorg__appsmith": {
+      "chunk_id": 0,
+      "current_main_sha": "5daea63d1de8d927743e028ab6f2c673d7f78a56",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/appwrite__appwrite": {
       "chunk_id": 0,
       "current_main_sha": "349d1038d8bf8e2c136f349ba128074c54ef7625",
@@ -109,6 +115,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:49:08Z",
+  "updated_at_utc": "2026-02-06T15:49:15Z",
   "version": 1
 }

@@ -198,6 +198,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/huggingface__transformers": {
+      "chunk_id": 0,
+      "current_main_sha": "43badf217d1ccfaf486e2cbb1b3567226b5e95bf",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/iptv-org__iptv": {
       "chunk_id": 0,
       "current_main_sha": "bd0580d8e79e2d716fa8398aa5a73cd9d7d7d3c7",
@@ -235,6 +241,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:05:52Z",
+  "updated_at_utc": "2026-02-06T16:05:55Z",
   "version": 1
 }

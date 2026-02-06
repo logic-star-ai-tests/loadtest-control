@@ -294,6 +294,13 @@
       "total_commits_indexed": 16065,
       "upstream": "highcharts/highcharts"
     },
+    "logic-star-ai-tests/huggingface__transformers": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T16:05:55Z",
+      "status": "seeded",
+      "total_commits_indexed": 19874,
+      "upstream": "huggingface/transformers"
+    },
     "logic-star-ai-tests/iptv-org__iptv": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T16:03:47Z",
@@ -336,6 +343,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:05:52Z",
+  "updated_at_utc": "2026-02-06T16:05:55Z",
   "version": 1
 }

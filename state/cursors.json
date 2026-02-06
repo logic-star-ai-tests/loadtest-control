@@ -198,6 +198,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/home-assistant__core": {
+      "chunk_id": 0,
+      "current_main_sha": "d55e4d53cccc9123d03f45c53441e7cbfc58e515",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/huggingface__transformers": {
       "chunk_id": 0,
       "current_main_sha": "43badf217d1ccfaf486e2cbb1b3567226b5e95bf",
@@ -271,6 +277,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:11:11Z",
+  "updated_at_utc": "2026-02-06T16:11:28Z",
   "version": 1
 }

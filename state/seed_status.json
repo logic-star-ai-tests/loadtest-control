@@ -294,6 +294,13 @@
       "total_commits_indexed": 16065,
       "upstream": "highcharts/highcharts"
     },
+    "logic-star-ai-tests/home-assistant__core": {
+      "default_branch": "dev",
+      "finished_at_utc": "2026-02-06T16:11:28Z",
+      "status": "seeded",
+      "total_commits_indexed": 83829,
+      "upstream": "home-assistant/core"
+    },
     "logic-star-ai-tests/huggingface__transformers": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:05:55Z",
@@ -378,6 +385,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:11:11Z",
+  "updated_at_utc": "2026-02-06T16:11:28Z",
   "version": 1
 }

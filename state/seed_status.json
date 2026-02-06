@@ -245,6 +245,13 @@
       "total_commits_indexed": 2647,
       "upstream": "espnet/espnet"
     },
+    "logic-star-ai-tests/frappe__frappe": {
+      "default_branch": "develop",
+      "finished_at_utc": "2026-02-06T15:59:38Z",
+      "status": "seeded",
+      "total_commits_indexed": 14646,
+      "upstream": "frappe/frappe"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -259,6 +266,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:57:35Z",
+  "updated_at_utc": "2026-02-06T15:59:38Z",
   "version": 1
 }

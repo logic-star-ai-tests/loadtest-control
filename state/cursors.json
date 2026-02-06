@@ -132,6 +132,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/espnet__espnet": {
+      "chunk_id": 0,
+      "current_main_sha": "00a12d5ec717d64cf279c9e730d708820e2df08c",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "chunk_id": 0,
       "current_main_sha": "69c0fa25d2d21c1ba6189456e3d3a0521c41132d",
@@ -145,6 +151,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T15:53:17Z",
+  "updated_at_utc": "2026-02-06T15:53:27Z",
   "version": 1
 }

@@ -217,6 +217,13 @@
       "total_commits_indexed": 10305,
       "upstream": "emberjs/ember.js"
     },
+    "logic-star-ai-tests/espnet__espnet": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T15:53:27Z",
+      "status": "seeded",
+      "total_commits_indexed": 2647,
+      "upstream": "espnet/espnet"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -231,6 +238,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:53:17Z",
+  "updated_at_utc": "2026-02-06T15:53:27Z",
   "version": 1
 }

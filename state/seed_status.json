@@ -567,6 +567,13 @@
       "total_commits_indexed": 7375,
       "upstream": "spyder-ide/spyder"
     },
+    "logic-star-ai-tests/storybookjs__storybook": {
+      "default_branch": "next",
+      "finished_at_utc": "2026-02-06T16:33:50Z",
+      "status": "seeded",
+      "total_commits_indexed": 14441,
+      "upstream": "storybookjs/storybook"
+    },
     "logic-star-ai-tests/strapi__strapi": {
       "default_branch": "develop",
       "finished_at_utc": "2026-02-06T16:30:38Z",
@@ -602,6 +609,6 @@
       "upstream": "zulip/zulip"
     }
   },
-  "updated_at_utc": "2026-02-06T16:32:41Z",
+  "updated_at_utc": "2026-02-06T16:33:50Z",
   "version": 1
 }

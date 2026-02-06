@@ -354,6 +354,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/python__cpython": {
+      "chunk_id": 0,
+      "current_main_sha": "7f777ed95a19224294949e1b4ce56bbffcb1fe9f",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/qutebrowser__qutebrowser": {
       "chunk_id": 0,
       "current_main_sha": "11a94957dc038fc27c5ff976197ad2b2d0352d20",
@@ -403,6 +409,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:23:49Z",
+  "updated_at_utc": "2026-02-06T16:24:48Z",
   "version": 1
 }

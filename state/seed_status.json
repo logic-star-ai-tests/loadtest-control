@@ -476,6 +476,13 @@
       "total_commits_indexed": 7078,
       "upstream": "python-pillow/Pillow"
     },
+    "logic-star-ai-tests/python__cpython": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T16:24:47Z",
+      "status": "seeded",
+      "total_commits_indexed": 94518,
+      "upstream": "python/cpython"
+    },
     "logic-star-ai-tests/qutebrowser__qutebrowser": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:16:23Z",
@@ -532,6 +539,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:23:49Z",
+  "updated_at_utc": "2026-02-06T16:24:47Z",
   "version": 1
 }

@@ -1,0 +1,13 @@
+{
+  "repos": {
+    "logic-star-ai-tests/optuna__optuna": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T14:53:57Z",
+      "status": "seeded",
+      "total_commits_indexed": 3629,
+      "upstream": "optuna/optuna"
+    }
+  },
+  "updated_at_utc": "2026-02-06T14:53:57Z",
+  "version": 1
+}

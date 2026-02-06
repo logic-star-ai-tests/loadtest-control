@@ -4,8 +4,8 @@ defaults:
   enabled: true
 
 repos:
-- upstream: yt-dlp/yt-dlp
-  loadtest_repo: logic-star-ai-tests/yt-dlp__yt-dlp
+- upstream: optuna/optuna
+  loadtest_repo: logic-star-ai-tests/optuna__optuna
   enabled: true
   commits_per_tick: 200
   start_offset: 0

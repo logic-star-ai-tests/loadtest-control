@@ -21,6 +21,13 @@
       "status": "error",
       "upstream": "OneUptime/oneuptime"
     },
+    "logic-star-ai-tests/OpenMined__PySyft": {
+      "default_branch": "dev",
+      "error": "CalledProcessError: Command '['git', 'clone', '--bare', '--branch', 'dev', '--single-branch', 'https://github.com/OpenMined/PySyft.git', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-37j2em25/repo.git']' returned non-zero exit status 128.",
+      "finished_at_utc": "2026-02-06T15:39:27Z",
+      "status": "error",
+      "upstream": "OpenMined/PySyft"
+    },
     "logic-star-ai-tests/PrefectHQ__prefect": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T15:38:48Z",
@@ -49,6 +56,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:39:12Z",
+  "updated_at_utc": "2026-02-06T15:39:27Z",
   "version": 1
 }

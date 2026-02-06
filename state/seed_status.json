@@ -259,6 +259,13 @@
       "total_commits_indexed": 30687,
       "upstream": "freeCodeCamp/freeCodeCamp"
     },
+    "logic-star-ai-tests/freqtrade__freqtrade": {
+      "default_branch": "develop",
+      "finished_at_utc": "2026-02-06T16:01:36Z",
+      "status": "seeded",
+      "total_commits_indexed": 10029,
+      "upstream": "freqtrade/freqtrade"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -273,6 +280,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:00:00Z",
+  "updated_at_utc": "2026-02-06T16:01:36Z",
   "version": 1
 }

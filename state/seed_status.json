@@ -105,6 +105,13 @@
       "total_commits_indexed": 2647,
       "upstream": "amplication/amplication"
     },
+    "logic-star-ai-tests/angular__angular": {
+      "default_branch": "main",
+      "finished_at_utc": "2026-02-06T15:46:29Z",
+      "status": "seeded",
+      "total_commits_indexed": 35360,
+      "upstream": "angular/angular"
+    },
     "logic-star-ai-tests/ansible__ansible": {
       "default_branch": "devel",
       "finished_at_utc": "2026-02-06T15:42:30Z",
@@ -147,6 +154,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:45:20Z",
+  "updated_at_utc": "2026-02-06T15:46:29Z",
   "version": 1
 }

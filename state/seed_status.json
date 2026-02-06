@@ -399,6 +399,13 @@
       "total_commits_indexed": 6494,
       "upstream": "microsoft/rushstack"
     },
+    "logic-star-ai-tests/misskey-dev__misskey": {
+      "default_branch": "develop",
+      "finished_at_utc": "2026-02-06T16:14:15Z",
+      "status": "seeded",
+      "total_commits_indexed": 18396,
+      "upstream": "misskey-dev/misskey"
+    },
     "logic-star-ai-tests/numba__numba": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:13:13Z",
@@ -420,6 +427,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:13:56Z",
+  "updated_at_utc": "2026-02-06T16:14:15Z",
   "version": 1
 }

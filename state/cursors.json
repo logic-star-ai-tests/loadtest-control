@@ -288,6 +288,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/misskey-dev__misskey": {
+      "chunk_id": 0,
+      "current_main_sha": "b3f42e62af698a67c2250533c437569559f1fdf9",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/numba__numba": {
       "chunk_id": 0,
       "current_main_sha": "52370f5564fa90916ce6f38cf4e63b8fa1761643",
@@ -307,6 +313,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:13:56Z",
+  "updated_at_utc": "2026-02-06T16:14:15Z",
   "version": 1
 }

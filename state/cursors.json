@@ -246,6 +246,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/kovidgoyal__calibre": {
+      "chunk_id": 0,
+      "current_main_sha": "baa766ae3c1906337f749af3f61b314ee5d18a5d",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/marmelab__react-admin": {
       "chunk_id": 0,
       "current_main_sha": "5dc7f004de2c08ede782d324fc029dbfb8d400f0",
@@ -265,6 +271,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:11:09Z",
+  "updated_at_utc": "2026-02-06T16:11:11Z",
   "version": 1
 }

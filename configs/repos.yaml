@@ -4,8 +4,524 @@ defaults:
   enabled: true
 
 repos:
+- upstream: 521xueweihan/GitHub520
+  loadtest_repo: logic-star-ai-tests/521xueweihan__GitHub520
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: Automattic/wp-calypso
+  loadtest_repo: logic-star-ai-tests/Automattic__wp-calypso
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: BabylonJS/Babylon.js
+  loadtest_repo: logic-star-ai-tests/BabylonJS__Babylon.js
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: BerriAI/litellm
+  loadtest_repo: logic-star-ai-tests/BerriAI__litellm
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: Budibase/budibase
+  loadtest_repo: logic-star-ai-tests/Budibase__budibase
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: DefinitelyTyped/DefinitelyTyped
+  loadtest_repo: logic-star-ai-tests/DefinitelyTyped__DefinitelyTyped
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: Kilo-Org/kilocode
+  loadtest_repo: logic-star-ai-tests/Kilo-Org__kilocode
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: MetaMask/metamask-extension
+  loadtest_repo: logic-star-ai-tests/MetaMask__metamask-extension
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: OneUptime/oneuptime
+  loadtest_repo: logic-star-ai-tests/OneUptime__oneuptime
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: OpenMined/PySyft
+  loadtest_repo: logic-star-ai-tests/OpenMined__PySyft
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: PrefectHQ/prefect
+  loadtest_repo: logic-star-ai-tests/PrefectHQ__prefect
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: Theano/Theano
+  loadtest_repo: logic-star-ai-tests/Theano__Theano
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: TriliumNext/Trilium
+  loadtest_repo: logic-star-ai-tests/TriliumNext__Trilium
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: activepieces/activepieces
+  loadtest_repo: logic-star-ai-tests/activepieces__activepieces
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: airbytehq/airbyte
+  loadtest_repo: logic-star-ai-tests/airbytehq__airbyte
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: amplication/amplication
+  loadtest_repo: logic-star-ai-tests/amplication__amplication
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: angular/angular
+  loadtest_repo: logic-star-ai-tests/angular__angular
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: ansible/ansible
+  loadtest_repo: logic-star-ai-tests/ansible__ansible
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: ansible/awx
+  loadtest_repo: logic-star-ai-tests/ansible__awx
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: ant-design/ant-design
+  loadtest_repo: logic-star-ai-tests/ant-design__ant-design
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: anyproto/anytype-ts
+  loadtest_repo: logic-star-ai-tests/anyproto__anytype-ts
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: apache/airflow
+  loadtest_repo: logic-star-ai-tests/apache__airflow
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: appsmithorg/appsmith
+  loadtest_repo: logic-star-ai-tests/appsmithorg__appsmith
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: appwrite/appwrite
+  loadtest_repo: logic-star-ai-tests/appwrite__appwrite
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: bitwarden/clients
+  loadtest_repo: logic-star-ai-tests/bitwarden__clients
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: bokeh/bokeh
+  loadtest_repo: logic-star-ai-tests/bokeh__bokeh
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: continuedev/continue
+  loadtest_repo: logic-star-ai-tests/continuedev__continue
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: cupy/cupy
+  loadtest_repo: logic-star-ai-tests/cupy__cupy
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: cypress-io/cypress
+  loadtest_repo: logic-star-ai-tests/cypress-io__cypress
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: dagster-io/dagster
+  loadtest_repo: logic-star-ai-tests/dagster-io__dagster
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: desktop/desktop
+  loadtest_repo: logic-star-ai-tests/desktop__desktop
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: django/django
+  loadtest_repo: logic-star-ai-tests/django__django
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: dubinc/dub
+  loadtest_repo: logic-star-ai-tests/dubinc__dub
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: element-hq/element-web
+  loadtest_repo: logic-star-ai-tests/element-hq__element-web
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: emberjs/ember.js
+  loadtest_repo: logic-star-ai-tests/emberjs__ember.js
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: espnet/espnet
+  loadtest_repo: logic-star-ai-tests/espnet__espnet
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: frappe/erpnext
+  loadtest_repo: logic-star-ai-tests/frappe__erpnext
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: frappe/frappe
+  loadtest_repo: logic-star-ai-tests/frappe__frappe
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: freeCodeCamp/freeCodeCamp
+  loadtest_repo: logic-star-ai-tests/freeCodeCamp__freeCodeCamp
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: freqtrade/freqtrade
+  loadtest_repo: logic-star-ai-tests/freqtrade__freqtrade
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: getsentry/sentry
+  loadtest_repo: logic-star-ai-tests/getsentry__sentry
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: goauthentik/authentik
+  loadtest_repo: logic-star-ai-tests/goauthentik__authentik
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: grafana/grafana
+  loadtest_repo: logic-star-ai-tests/grafana__grafana
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: highcharts/highcharts
+  loadtest_repo: logic-star-ai-tests/highcharts__highcharts
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: home-assistant/core
+  loadtest_repo: logic-star-ai-tests/home-assistant__core
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: huggingface/transformers
+  loadtest_repo: logic-star-ai-tests/huggingface__transformers
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: hummingbot/hummingbot
+  loadtest_repo: logic-star-ai-tests/hummingbot__hummingbot
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: iptv-org/iptv
+  loadtest_repo: logic-star-ai-tests/iptv-org__iptv
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: ipython/ipython
+  loadtest_repo: logic-star-ai-tests/ipython__ipython
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: jax-ml/jax
+  loadtest_repo: logic-star-ai-tests/jax-ml__jax
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: jhipster/generator-jhipster
+  loadtest_repo: logic-star-ai-tests/jhipster__generator-jhipster
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: juice-shop/juice-shop
+  loadtest_repo: logic-star-ai-tests/juice-shop__juice-shop
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: jupyterlab/jupyterlab
+  loadtest_repo: logic-star-ai-tests/jupyterlab__jupyterlab
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: kovidgoyal/calibre
+  loadtest_repo: logic-star-ai-tests/kovidgoyal__calibre
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: marmelab/react-admin
+  loadtest_repo: logic-star-ai-tests/marmelab__react-admin
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: matplotlib/matplotlib
+  loadtest_repo: logic-star-ai-tests/matplotlib__matplotlib
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: mattermost/mattermost
+  loadtest_repo: logic-star-ai-tests/mattermost__mattermost
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: microsoft/fluentui
+  loadtest_repo: logic-star-ai-tests/microsoft__fluentui
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: microsoft/rushstack
+  loadtest_repo: logic-star-ai-tests/microsoft__rushstack
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: microsoft/vscode
+  loadtest_repo: logic-star-ai-tests/microsoft__vscode
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: misskey-dev/misskey
+  loadtest_repo: logic-star-ai-tests/misskey-dev__misskey
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: nocodb/nocodb
+  loadtest_repo: logic-star-ai-tests/nocodb__nocodb
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: novuhq/novu
+  loadtest_repo: logic-star-ai-tests/novuhq__novu
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: numba/numba
+  loadtest_repo: logic-star-ai-tests/numba__numba
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: numpy/numpy
+  loadtest_repo: logic-star-ai-tests/numpy__numpy
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: optuna/optuna
+  loadtest_repo: logic-star-ai-tests/optuna__optuna
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: pandas-dev/pandas
+  loadtest_repo: logic-star-ai-tests/pandas-dev__pandas
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: primefaces/primeng
+  loadtest_repo: logic-star-ai-tests/primefaces__primeng
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: python-pillow/Pillow
+  loadtest_repo: logic-star-ai-tests/python-pillow__Pillow
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: python/cpython
+  loadtest_repo: logic-star-ai-tests/python__cpython
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: pytorch/pytorch
+  loadtest_repo: logic-star-ai-tests/pytorch__pytorch
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: qutebrowser/qutebrowser
+  loadtest_repo: logic-star-ai-tests/qutebrowser__qutebrowser
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: ray-project/ray
+  loadtest_repo: logic-star-ai-tests/ray-project__ray
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: readthedocs/readthedocs.org
+  loadtest_repo: logic-star-ai-tests/readthedocs__readthedocs.org
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: renovatebot/renovate
+  loadtest_repo: logic-star-ai-tests/renovatebot__renovate
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: saleor/saleor
+  loadtest_repo: logic-star-ai-tests/saleor__saleor
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: saltstack/salt
+  loadtest_repo: logic-star-ai-tests/saltstack__salt
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: scikit-learn/scikit-learn
+  loadtest_repo: logic-star-ai-tests/scikit-learn__scikit-learn
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: scipy/scipy
+  loadtest_repo: logic-star-ai-tests/scipy__scipy
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: siyuan-note/siyuan
+  loadtest_repo: logic-star-ai-tests/siyuan-note__siyuan
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: spyder-ide/spyder
+  loadtest_repo: logic-star-ai-tests/spyder-ide__spyder
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: storybookjs/storybook
+  loadtest_repo: logic-star-ai-tests/storybookjs__storybook
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: strapi/strapi
+  loadtest_repo: logic-star-ai-tests/strapi__strapi
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: sympy/sympy
+  loadtest_repo: logic-star-ai-tests/sympy__sympy
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: tinymce/tinymce
+  loadtest_repo: logic-star-ai-tests/tinymce__tinymce
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
 - upstream: yt-dlp/yt-dlp
   loadtest_repo: logic-star-ai-tests/yt-dlp__yt-dlp
+  enabled: true
+  commits_per_tick: 200
+  start_offset: 0
+
+- upstream: zulip/zulip
+  loadtest_repo: logic-star-ai-tests/zulip__zulip
   enabled: true
   commits_per_tick: 200
   start_offset: 0

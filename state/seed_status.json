@@ -392,6 +392,13 @@
       "total_commits_indexed": 18829,
       "upstream": "matplotlib/matplotlib"
     },
+    "logic-star-ai-tests/mattermost__mattermost": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:17:57Z",
+      "status": "seeded",
+      "total_commits_indexed": 16154,
+      "upstream": "mattermost/mattermost"
+    },
     "logic-star-ai-tests/microsoft__rushstack": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:12:30Z",
@@ -455,6 +462,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:16:57Z",
+  "updated_at_utc": "2026-02-06T16:17:57Z",
   "version": 1
 }

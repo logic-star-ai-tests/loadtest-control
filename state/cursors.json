@@ -210,6 +210,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/jax-ml__jax": {
+      "chunk_id": 0,
+      "current_main_sha": "a30e858e59d7184b9e54dc3f3955238221d70439",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/juice-shop__juice-shop": {
       "chunk_id": 0,
       "current_main_sha": "dfea0095943ba6c3ef308065794d70abcdd525d1",
@@ -229,6 +235,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:05:23Z",
+  "updated_at_utc": "2026-02-06T16:05:52Z",
   "version": 1
 }

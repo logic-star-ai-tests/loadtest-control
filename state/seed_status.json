@@ -28,6 +28,13 @@
       "status": "error",
       "upstream": "BerriAI/litellm"
     },
+    "logic-star-ai-tests/DefinitelyTyped__DefinitelyTyped": {
+      "default_branch": "master",
+      "error": "CalledProcessError: Command '['git', 'clone', '--bare', '--branch', 'master', '--single-branch', 'https://github.com/DefinitelyTyped/DefinitelyTyped.git', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-ww1e5l3i/repo.git']' returned non-zero exit status 128.",
+      "finished_at_utc": "2026-02-06T15:39:35Z",
+      "status": "error",
+      "upstream": "DefinitelyTyped/DefinitelyTyped"
+    },
     "logic-star-ai-tests/MetaMask__metamask-extension": {
       "default_branch": "main",
       "error": "CalledProcessError: Command '['git', 'clone', '--bare', '--branch', 'main', '--single-branch', 'https://github.com/MetaMask/metamask-extension.git', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-7ovdlbab/repo.git']' returned non-zero exit status 128.",
@@ -77,6 +84,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:39:33Z",
+  "updated_at_utc": "2026-02-06T15:39:35Z",
   "version": 1
 }

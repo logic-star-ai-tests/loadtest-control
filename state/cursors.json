@@ -366,6 +366,12 @@
       "offset": 0,
       "status": "active"
     },
+    "logic-star-ai-tests/ray-project__ray": {
+      "chunk_id": 0,
+      "current_main_sha": "3655dfbc2363713c7d9e924d209566972d95a35f",
+      "offset": 0,
+      "status": "active"
+    },
     "logic-star-ai-tests/readthedocs__readthedocs.org": {
       "chunk_id": 0,
       "current_main_sha": "6c38e6c065e8a26add3126861e996fbcb03fb60d",
@@ -409,6 +415,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-02-06T16:24:48Z",
+  "updated_at_utc": "2026-02-06T16:25:33Z",
   "version": 1
 }

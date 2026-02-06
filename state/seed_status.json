@@ -490,6 +490,13 @@
       "total_commits_indexed": 14968,
       "upstream": "qutebrowser/qutebrowser"
     },
+    "logic-star-ai-tests/ray-project__ray": {
+      "default_branch": "master",
+      "finished_at_utc": "2026-02-06T16:25:33Z",
+      "status": "seeded",
+      "total_commits_indexed": 28857,
+      "upstream": "ray-project/ray"
+    },
     "logic-star-ai-tests/readthedocs__readthedocs.org": {
       "default_branch": "main",
       "finished_at_utc": "2026-02-06T16:19:05Z",
@@ -539,6 +546,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T16:24:47Z",
+  "updated_at_utc": "2026-02-06T16:25:33Z",
   "version": 1
 }

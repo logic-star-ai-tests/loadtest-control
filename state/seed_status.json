@@ -7,6 +7,13 @@
       "total_commits_indexed": 18884,
       "upstream": "521xueweihan/GitHub520"
     },
+    "logic-star-ai-tests/OneUptime__oneuptime": {
+      "default_branch": "master",
+      "error": "CalledProcessError: Command '['git', '-C', '/var/folders/47/t4sjr10x2yjbsy53w7v0tycc0000gn/T/github-loadtest-seed-3phtm1_0/repo.git', 'push', '--force', 'loadtest', '08004aaf68c55182cb37fa5e84bcfbf3817ee932:refs/heads/main']' returned non-zero exit status 1.",
+      "finished_at_utc": "2026-02-06T15:38:29Z",
+      "status": "error",
+      "upstream": "OneUptime/oneuptime"
+    },
     "logic-star-ai-tests/optuna__optuna": {
       "default_branch": "master",
       "finished_at_utc": "2026-02-06T14:53:57Z",
@@ -21,6 +28,6 @@
       "upstream": "yt-dlp/yt-dlp"
     }
   },
-  "updated_at_utc": "2026-02-06T15:36:50Z",
+  "updated_at_utc": "2026-02-06T15:38:29Z",
   "version": 1
 }

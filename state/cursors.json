@@ -16,25 +16,25 @@
       "chunk_id": 0,
       "current_main_sha": "a8aa18d01d0640db6fb0f7bcb20e713b38b5610b",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/Kilo-Org__kilocode": {
       "chunk_id": 0,
       "current_main_sha": "9f169b7e4bd32dbd59626e031fcfb663558c9cbd",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/PrefectHQ__prefect": {
       "chunk_id": 0,
       "current_main_sha": "5d64e2da1bd11f31d16993ae1730599e13de4016",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/Theano__Theano": {
       "chunk_id": 0,
       "current_main_sha": "7ef88361c1e3290675c9ee7e1719b3a7aae61851",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/airbytehq__airbyte": {
       "chunk_id": 0,
@@ -46,435 +46,435 @@
       "chunk_id": 0,
       "current_main_sha": "441c53bae906824c5988f26e44690ca0ffb5e685",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/angular__angular": {
       "chunk_id": 0,
       "current_main_sha": "6a3abf2366e2c32ce3460155903262fee01736c8",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/ansible__ansible": {
       "chunk_id": 0,
       "current_main_sha": "f31421576b00f0b167cdbe61217c31c21a41ac02",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/ansible__awx": {
       "chunk_id": 0,
       "current_main_sha": "853021a11e4a2969816b342ba779fe66b5aaa058",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/ant-design__ant-design": {
       "chunk_id": 0,
       "current_main_sha": "c5e67da18f48d8fe5ad31b5be246d73116ffa601",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/anyproto__anytype-ts": {
       "chunk_id": 0,
       "current_main_sha": "068a78d01bde3755a3438f4de5537e7300d2ca78",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/apache__airflow": {
       "chunk_id": 0,
       "current_main_sha": "1047940ca4363b04044c4963b9c88f7632746407",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/appsmithorg__appsmith": {
       "chunk_id": 0,
       "current_main_sha": "5daea63d1de8d927743e028ab6f2c673d7f78a56",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/appwrite__appwrite": {
       "chunk_id": 0,
       "current_main_sha": "349d1038d8bf8e2c136f349ba128074c54ef7625",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/bitwarden__clients": {
       "chunk_id": 0,
       "current_main_sha": "23f43ce27e617ae042facf2ae73f0f1c94fe1a1b",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/bokeh__bokeh": {
       "chunk_id": 0,
       "current_main_sha": "3fde8e31c7bfd34f8250439891f991f7208e5b7f",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/continuedev__continue": {
       "chunk_id": 0,
       "current_main_sha": "27ecedb02ef79ce53bf533e016b00462c44541be",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/cupy__cupy": {
       "chunk_id": 0,
       "current_main_sha": "833e5b1f54e6679ddce0a2b7e25dd8848b363e2f",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/cypress-io__cypress": {
       "chunk_id": 0,
       "current_main_sha": "c4ba9a2b5b9987332babced52b6fc164815e0fd5",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/dagster-io__dagster": {
       "chunk_id": 0,
       "current_main_sha": "7bd58d800766aad0c0501539b8f6ee3dbf74331c",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/desktop__desktop": {
       "chunk_id": 0,
       "current_main_sha": "7012c51cc29a4ddc5d0f00d3b9763cebab509e4a",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/django__django": {
       "chunk_id": 0,
       "current_main_sha": "d6ded0e91bcdd2a8f7a221f6a5552a33fe545359",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/dubinc__dub": {
       "chunk_id": 0,
       "current_main_sha": "b02b81df27e1c6e4712f3f67e08c11921a0bab4a",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/element-hq__element-web": {
       "chunk_id": 0,
       "current_main_sha": "c42733ec951e1492bec746ebf337d3ec5f538e8d",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/emberjs__ember.js": {
       "chunk_id": 0,
       "current_main_sha": "24f801c64e57dad499a5659b2efcac363e6ade86",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/espnet__espnet": {
       "chunk_id": 0,
       "current_main_sha": "00a12d5ec717d64cf279c9e730d708820e2df08c",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/frappe__erpnext": {
       "chunk_id": 0,
       "current_main_sha": "c1e6e4c7526e32364c6650ad4be936b6b6af6767",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/frappe__frappe": {
       "chunk_id": 0,
       "current_main_sha": "d9404210e4b835ded65db509126f306e8e6c3c84",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/freeCodeCamp__freeCodeCamp": {
       "chunk_id": 0,
       "current_main_sha": "7a80dfe1684664cefd2923bdbb329dcb9a48dc4f",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/freqtrade__freqtrade": {
       "chunk_id": 0,
       "current_main_sha": "e5d693ed4cbeade9bf69ce8364cf1a974dd83efd",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/getsentry__sentry": {
       "chunk_id": 0,
       "current_main_sha": "3c2e87573d3bd16f61cf08fece0638cc47a4fc22",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/goauthentik__authentik": {
       "chunk_id": 0,
       "current_main_sha": "935155ce94d1b896eae390a762e63ba4d7310c59",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/grafana__grafana": {
       "chunk_id": 0,
       "current_main_sha": "75d03fc49ab4f95ee414f730563f14cbdad9ee64",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/highcharts__highcharts": {
       "chunk_id": 0,
       "current_main_sha": "5912c0019b24b5af446ecdce1ff3ff7e7b5f78a8",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/home-assistant__core": {
       "chunk_id": 0,
       "current_main_sha": "d55e4d53cccc9123d03f45c53441e7cbfc58e515",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/huggingface__transformers": {
       "chunk_id": 0,
       "current_main_sha": "43badf217d1ccfaf486e2cbb1b3567226b5e95bf",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/hummingbot__hummingbot": {
       "chunk_id": 0,
       "current_main_sha": "024aae97bb6fd3d27160b8f8dfefbefb9be9eda2",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/iptv-org__iptv": {
       "chunk_id": 0,
       "current_main_sha": "bd0580d8e79e2d716fa8398aa5a73cd9d7d7d3c7",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/ipython__ipython": {
       "chunk_id": 0,
       "current_main_sha": "6f629fcc23ba63342548f61cc7307eeef4f55799",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/jax-ml__jax": {
       "chunk_id": 0,
       "current_main_sha": "a30e858e59d7184b9e54dc3f3955238221d70439",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/jhipster__generator-jhipster": {
       "chunk_id": 0,
       "current_main_sha": "c8630ab7af7b6a99db880b3b0e2403806b7d2436",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/juice-shop__juice-shop": {
       "chunk_id": 0,
       "current_main_sha": "dfea0095943ba6c3ef308065794d70abcdd525d1",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/jupyterlab__jupyterlab": {
       "chunk_id": 0,
       "current_main_sha": "f6c9d0b69cf263f5e05d893fc2b903d7270ee609",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/kovidgoyal__calibre": {
       "chunk_id": 0,
       "current_main_sha": "baa766ae3c1906337f749af3f61b314ee5d18a5d",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/marmelab__react-admin": {
       "chunk_id": 0,
       "current_main_sha": "5dc7f004de2c08ede782d324fc029dbfb8d400f0",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/matplotlib__matplotlib": {
       "chunk_id": 0,
       "current_main_sha": "48111d043ec52f9afb511ac447438877b236e7f3",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/mattermost__mattermost": {
       "chunk_id": 0,
       "current_main_sha": "56e74239d6b34df8f30ef046f0b0ff4ff0866a71",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/microsoft__fluentui": {
       "chunk_id": 0,
       "current_main_sha": "7f1298977e2617ba33b623010597c2041ad47336",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/microsoft__rushstack": {
       "chunk_id": 0,
       "current_main_sha": "2fd33432c0ff0e951cfaca91425c513e4ce394ab",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/microsoft__vscode": {
       "chunk_id": 0,
       "current_main_sha": "8f35cc4768393b25468416829e980d7550619fb1",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/misskey-dev__misskey": {
       "chunk_id": 0,
       "current_main_sha": "b3f42e62af698a67c2250533c437569559f1fdf9",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/nocodb__nocodb": {
       "chunk_id": 0,
       "current_main_sha": "67515e05dfcf522df926bf3636b44305dde046dd",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/novuhq__novu": {
       "chunk_id": 0,
       "current_main_sha": "9dff21c384cbdd2050e901950f8101fe99b83b28",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/numba__numba": {
       "chunk_id": 0,
       "current_main_sha": "52370f5564fa90916ce6f38cf4e63b8fa1761643",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/numpy__numpy": {
       "chunk_id": 0,
       "current_main_sha": "f1a2d6376c430f65550efa235209b86c1a0967e3",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/optuna__optuna": {
       "chunk_id": 0,
       "current_main_sha": "69c0fa25d2d21c1ba6189456e3d3a0521c41132d",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/pandas-dev__pandas": {
       "chunk_id": 0,
       "current_main_sha": "9d0080576446de475d34b0dbb58389b15cd4f529",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/primefaces__primeng": {
       "chunk_id": 0,
       "current_main_sha": "14cfdd41a1904baf648ecab24b2cf027cb00d05e",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/python-pillow__Pillow": {
       "chunk_id": 0,
       "current_main_sha": "b47a462e47a49b9720652c90bea380c49a211c90",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/python__cpython": {
       "chunk_id": 0,
       "current_main_sha": "7f777ed95a19224294949e1b4ce56bbffcb1fe9f",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/pytorch__pytorch": {
       "chunk_id": 0,
       "current_main_sha": "731041cb6a12b6f46626e16a04ab11523fed1c49",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/qutebrowser__qutebrowser": {
       "chunk_id": 0,
       "current_main_sha": "11a94957dc038fc27c5ff976197ad2b2d0352d20",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/ray-project__ray": {
       "chunk_id": 0,
       "current_main_sha": "3655dfbc2363713c7d9e924d209566972d95a35f",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/readthedocs__readthedocs.org": {
       "chunk_id": 0,
       "current_main_sha": "6c38e6c065e8a26add3126861e996fbcb03fb60d",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/renovatebot__renovate": {
       "chunk_id": 0,
       "current_main_sha": "864780602c83d5fbb48c3d32b2e7d9f2aacc4863",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/saleor__saleor": {
       "chunk_id": 0,
       "current_main_sha": "e44fb04caf2f3be3ccb17e6e80e7e3c633b25a9b",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/saltstack__salt": {
       "chunk_id": 0,
       "current_main_sha": "7578c4d9f429b91dd8df553fc6ed78f4c8b76e7c",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/scikit-learn__scikit-learn": {
       "chunk_id": 0,
       "current_main_sha": "92fbeab6ad94b6683377e26e8af7dd1cb86d615e",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/scipy__scipy": {
       "chunk_id": 0,
       "current_main_sha": "02de46a5464f182d3d64be5a7ee1087ae8be8646",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/siyuan-note__siyuan": {
       "chunk_id": 0,
       "current_main_sha": "feebfeb6bef44cf1384d51cdd7aef7e4197b8180",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/spyder-ide__spyder": {
       "chunk_id": 0,
       "current_main_sha": "78a22a22577bbdde2c879da0429f08ad88dcff29",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/storybookjs__storybook": {
       "chunk_id": 0,
       "current_main_sha": "3d66b387069f2676a3cd74354b659d6eb235cb3d",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/strapi__strapi": {
       "chunk_id": 0,
       "current_main_sha": "02597489f4117e5456977ff4bc0abe5aa90082e7",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/sympy__sympy": {
       "chunk_id": 0,
       "current_main_sha": "99b21ff58ad2e2ba83172512d7f513a7c37e50c3",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/tinymce__tinymce": {
       "chunk_id": 0,
       "current_main_sha": "772ee098b32dcf84903417f8f608f995d2540517",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/yt-dlp__yt-dlp": {
       "chunk_id": 0,
       "current_main_sha": "4fa74b5252a23c2890ddee52b8ee5811b5bb2987",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/zulip__zulip": {
       "chunk_id": 0,
       "current_main_sha": "ea43d2e40e59cb0240ea362fe30f9a435a4a2a1f",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     }
   },
-  "updated_at_utc": "2026-03-31T08:29:26Z",
+  "updated_at_utc": "2026-03-31T08:52:04Z",
   "version": 1
 }

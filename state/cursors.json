@@ -6,6 +6,12 @@
       "offset": 0,
       "status": "error"
     },
+    "logic-star-ai-tests/Automattic__wp-calypso": {
+      "chunk_id": 0,
+      "current_main_sha": "0fbe880a0cc799ba84fa5f4b46adfde2bf8d43b2",
+      "offset": 200,
+      "status": "error"
+    },
     "logic-star-ai-tests/Budibase__budibase": {
       "chunk_id": 0,
       "current_main_sha": "a8aa18d01d0640db6fb0f7bcb20e713b38b5610b",
@@ -469,6 +475,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-03-31T08:24:09Z",
+  "updated_at_utc": "2026-03-31T08:26:45Z",
   "version": 1
 }

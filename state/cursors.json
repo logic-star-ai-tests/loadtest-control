@@ -40,7 +40,7 @@
       "chunk_id": 0,
       "current_main_sha": "f9d60195796f4345d838c61f0070f2e594b0e3f6",
       "offset": 0,
-      "status": "active"
+      "status": "error"
     },
     "logic-star-ai-tests/amplication__amplication": {
       "chunk_id": 0,
@@ -475,6 +475,6 @@
       "status": "active"
     }
   },
-  "updated_at_utc": "2026-03-31T08:26:45Z",
+  "updated_at_utc": "2026-03-31T08:29:26Z",
   "version": 1
 }
